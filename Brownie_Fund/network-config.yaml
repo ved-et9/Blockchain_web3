@@ -1,0 +1,9 @@
+live:
+- name: Ethereum
+  networks:
+  - chainid: 11155111
+    explorer: https://api-sepolia.etherscan.io/api
+    host: https://sepolia.infura.io/v3/$WEB3_INFURA_PROJECT_ID
+    id: sepolia
+    multicall2: '0x5BA1e12693Dc8F9c48aAD8770482f4739bEeD696'
+    name: Sepolia (Infura)
